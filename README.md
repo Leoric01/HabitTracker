@@ -1,6 +1,6 @@
 # HabitTracker
 
-Simple daily habit tracker to keep your preffered tasks 
+Simple daily habit tracker to keep motivated on your preffered tasks 
 
 Using:
 Java 21
